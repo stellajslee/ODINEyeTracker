@@ -1,6 +1,7 @@
 """
-Demonstration of the GazeTracking library.
-Check the README.md for complete documentation.
+This is the modified code for ODIN Eye Tracker
+which utilizes the connected webcam rather than the laptop's built in camera
+and turns on an Arduino LED when eyes are looking right, off when looking left.
 """
 
 import cv2
